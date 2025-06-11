@@ -11,6 +11,7 @@
 - 🗑️ Delete recordings
 - 📊 Real-time amplitude visualizer
 - 📁 Files stored with unique `.rn` extensions
+- 🧠 Built using Flutter Bloc for state management
 
 ---
 
@@ -52,7 +53,7 @@ The file format `.rn` is used for branding, while recordings are actually saved 
 
 ---
 
-## 📄 Project Report
+## 📄 Assignment Report
 
 [📘 Download Full Report (PDF)](Voice_Recorder_Report.pdf)
 
@@ -69,12 +70,7 @@ The file format `.rn` is used for branding, while recordings are actually saved 
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/voice_recorder_flutter.git
+git clone [https://github.com/yourusername/voice_recorder_flutter.git](https://github.com/ANewShaman/VoiceRecorderUI.git)
 cd voice_recorder_flutter
 flutter pub get
 flutter run
-
-
-
-
-
