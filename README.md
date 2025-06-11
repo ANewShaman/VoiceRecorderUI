@@ -1,6 +1,6 @@
 # Voice Recorder App (Flutter)
 
-This is a minimal yet effective voice recording app developed using the Flutter framework. It captures high-quality audio, saves it locally, and provides playback and deletion features through a clean, intuitive UI.
+This is a minimal yet effective voice recording app developed using the Flutter framework. It captures high-quality audio, saves it locally, and provides playback. Some are already put up with no actual audio
 
 ---
 
