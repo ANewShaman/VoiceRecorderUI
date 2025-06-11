@@ -1,37 +1,37 @@
-# 🎙️ Rapid Note – Voice Recorder App (Flutter)
+# Voice Recorder App (Flutter)
 
-**Rapid Note** is a minimal yet effective voice recording app developed using the Flutter framework. It captures high-quality audio, saves it locally, and provides playback and deletion features through a clean, intuitive UI.
+This is a minimal yet effective voice recording app developed using the Flutter framework. It captures high-quality audio, saves it locally, and provides playback and deletion features through a clean, intuitive UI.
 
 ---
 
 ## 🚀 Features
 
-- 🎤 Start / Stop / Pause recording
-- ▶️ Play saved recordings
-- 🗑️ Delete recordings
-- 📊 Real-time amplitude visualizer
-- 📁 Files stored with unique `.rn` extensions
-- 🧠 Built using Flutter Bloc for state management
+- Start / Stop / Pause recording
+- Play saved recordings
+- Delete recordings
+- Real-time amplitude visualizer
+- Files stored with unique `.rn` extensions
+- Built using Flutter Bloc for state management
 
 ---
 
 ## 📱 Screenshots
 
 ### 1. Home Screen  
-![Home](screenshot_home.png)
+![Home](HomeScreen.jpg)
 
 ### 2. Recording Screen  
-![Recording](screenshot_recording.png)
+![Recording](RecordingScreen.jpg)
 
 ### 3. Recordings List  
-![Recordings List](screenshot_list.png)
+![Recordings List](RecordingsList.jpg)
 
 ### 4. Playback + Voice Bar  
-![Playback](screenshot_playback.png)
+![Playback](PlaybackScreen.jpg)
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 - `RecordCubit`: Manages microphone permissions, recording states, and audio input.
 - `FilesCubit`: Manages file storage, listing, and deletion.
@@ -41,7 +41,7 @@ The file format `.rn` is used for branding, while recordings are actually saved 
 
 ---
 
-## 📦 Key Packages Used
+## Key Packages Used
 
 | Package            | Purpose                                      |
 |--------------------|----------------------------------------------|
@@ -55,11 +55,11 @@ The file format `.rn` is used for branding, while recordings are actually saved 
 
 ## 📄 Assignment Report
 
-[📘 Download Full Report (PDF)](Voice_Recorder_Report.pdf)
+[Download Full Report (PDF)](Voice_Recorder_Report.pdf)
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 ### Prerequisites
 
