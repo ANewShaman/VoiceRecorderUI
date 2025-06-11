@@ -4,7 +4,7 @@ This is a minimal yet effective voice recording app developed using the Flutter 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Start / Stop / Pause recording
 - Play saved recordings
@@ -15,7 +15,7 @@ This is a minimal yet effective voice recording app developed using the Flutter 
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 ### 1. Home Screen  
 ![Home](HomeScreen.jpg)
